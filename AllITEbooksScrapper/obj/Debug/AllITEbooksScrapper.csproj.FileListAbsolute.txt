@@ -1,0 +1,16 @@
+d:\DATA\mhneri\Documents\Visual Studio 2015\Projects\AllITEbooksScrapper\AllITEbooksScrapper\bin\Debug\AllITEbooksScrapper.exe.config
+d:\DATA\mhneri\Documents\Visual Studio 2015\Projects\AllITEbooksScrapper\AllITEbooksScrapper\bin\Debug\AllITEbooksScrapper.exe
+d:\DATA\mhneri\Documents\Visual Studio 2015\Projects\AllITEbooksScrapper\AllITEbooksScrapper\bin\Debug\AllITEbooksScrapper.pdb
+d:\DATA\mhneri\Documents\Visual Studio 2015\Projects\AllITEbooksScrapper\AllITEbooksScrapper\bin\Debug\CsQuery.dll
+d:\DATA\mhneri\Documents\Visual Studio 2015\Projects\AllITEbooksScrapper\AllITEbooksScrapper\bin\Debug\Flurl.dll
+d:\DATA\mhneri\Documents\Visual Studio 2015\Projects\AllITEbooksScrapper\AllITEbooksScrapper\bin\Debug\Flurl.Http.dll
+d:\DATA\mhneri\Documents\Visual Studio 2015\Projects\AllITEbooksScrapper\AllITEbooksScrapper\bin\Debug\Newtonsoft.Json.dll
+d:\DATA\mhneri\Documents\Visual Studio 2015\Projects\AllITEbooksScrapper\AllITEbooksScrapper\bin\Debug\CsQuery.xml
+d:\DATA\mhneri\Documents\Visual Studio 2015\Projects\AllITEbooksScrapper\AllITEbooksScrapper\bin\Debug\Flurl.pdb
+d:\DATA\mhneri\Documents\Visual Studio 2015\Projects\AllITEbooksScrapper\AllITEbooksScrapper\bin\Debug\Flurl.xml
+d:\DATA\mhneri\Documents\Visual Studio 2015\Projects\AllITEbooksScrapper\AllITEbooksScrapper\bin\Debug\Flurl.Http.pdb
+d:\DATA\mhneri\Documents\Visual Studio 2015\Projects\AllITEbooksScrapper\AllITEbooksScrapper\bin\Debug\Flurl.Http.xml
+d:\DATA\mhneri\Documents\Visual Studio 2015\Projects\AllITEbooksScrapper\AllITEbooksScrapper\bin\Debug\Newtonsoft.Json.xml
+d:\DATA\mhneri\Documents\Visual Studio 2015\Projects\AllITEbooksScrapper\AllITEbooksScrapper\obj\Debug\AllITEbooksScrapper.csprojResolveAssemblyReference.cache
+d:\DATA\mhneri\Documents\Visual Studio 2015\Projects\AllITEbooksScrapper\AllITEbooksScrapper\obj\Debug\AllITEbooksScrapper.exe
+d:\DATA\mhneri\Documents\Visual Studio 2015\Projects\AllITEbooksScrapper\AllITEbooksScrapper\obj\Debug\AllITEbooksScrapper.pdb

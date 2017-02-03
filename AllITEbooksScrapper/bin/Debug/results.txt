@@ -1,0 +1,50 @@
+http://file.allitebooks.com/20170203/Pro Angular, 2nd Edition.pdf
+http://file.allitebooks.com/20161222/Grid Layout in CSS.pdf
+http://file.allitebooks.com/20161209/Learning ECMAScript 6.pdf
+http://file.allitebooks.com/20161230/Beginning Ethical Hacking with Python.pdf
+http://file.allitebooks.com/20170120/Introduction to Computing Using Python, 2nd Edition.pdf
+http://file.allitebooks.com/20170202/IBM Cognos 8 Planning.pdf
+http://file.allitebooks.com/20161204/Application Testing with Capybara.pdf
+http://file.allitebooks.com/20161227/ASP.NET Core 1.0 High Performance.pdf
+http://file.allitebooks.com/20161220/PHP Objects, Patterns, and Practice.pdf
+http://file.allitebooks.com/20170120/Modern Python Cookbook.pdf
+http://file.allitebooks.com/20170130/Beginning HTML with CSS and XHTML.pdf
+http://file.allitebooks.com/20161220/PHP Persistence.pdf
+http://file.allitebooks.com/20161227/Learning Angular 2.pdf
+http://file.allitebooks.com/20161204/Pro MEAN Stack Development.pdf
+http://file.allitebooks.com/20170119/Magento 2 DIY.pdf
+http://file.allitebooks.com/20161219/Beginning KeystoneJS.pdf
+http://file.allitebooks.com/20170125/Professional CSS3.pdf
+http://file.allitebooks.com/20161227/Mastering Angular 2 Components.pdf
+http://file.allitebooks.com/20161204/Text Analytics with Python.pdf
+http://file.allitebooks.com/20170117/ASP.NET 3.5 CMS Development.pdf
+http://file.allitebooks.com/20161218/Magento 1 DIY.pdf
+http://file.allitebooks.com/20170125/Reactive Programming with Node.js.pdf
+http://file.allitebooks.com/20161224/Create Web Charts with D3.pdf
+http://file.allitebooks.com/20161202/Oracle SOA Suite Developer's Guide.pdf
+http://file.allitebooks.com/20170113/Web Performance in Action.pdf
+http://file.allitebooks.com/20170125/JavaScript for .NET Developers.pdf
+http://file.allitebooks.com/20161219/Building APIs with Node.js.pdf
+http://file.allitebooks.com/20161224/Python, PyGame and Raspberry Pi Game Development.pdf
+http://file.allitebooks.com/20161202/The Python Quick Syntax Reference.pdf
+http://file.allitebooks.com/20170106/Introducing Regular Expressions.pdf
+http://file.allitebooks.com/20170125/Laravel Up and Running.pdf
+http://file.allitebooks.com/20161215/Drupal Intranets with Open Atrium.pdf
+http://file.allitebooks.com/20161224/JavaScript Recipes.pdf
+http://file.allitebooks.com/20161128/Head First Python, 2nd Edition.pdf
+http://file.allitebooks.com/20170106/Web Developer's Reference Guide.pdf
+http://file.allitebooks.com/20161210/Ruby Recipes.pdf
+http://file.allitebooks.com/20170122/Mastering Python Data Analysis.pdf
+http://file.allitebooks.com/20161224/Introducing Web Development.pdf
+http://file.allitebooks.com/20161127/SignalR Realtime Application Cookbook.pdf
+http://file.allitebooks.com/20170101/Making Games.pdf
+http://file.allitebooks.com/20161210/Python Descriptors.pdf
+http://file.allitebooks.com/20170120/Mastering React Native.pdf
+http://file.allitebooks.com/20161224/Extending SaltStack.pdf
+http://file.allitebooks.com/20161127/Rake Task Management Essentials.pdf
+http://file.allitebooks.com/20170101/PHP Arrays.pdf
+http://file.allitebooks.com/20161209/Modular Programming with JavaScript.pdf
+http://file.allitebooks.com/20170120/Object Oriented JavaScript, 3rd Edition.pdf
+http://file.allitebooks.com/20161222/PHP Beyond the Web.pdf
+http://file.allitebooks.com/20161230/Design Patterns in PHP and Laravel.pdf
+http://file.allitebooks.com/20161124/ASP.NET Data Presentation Controls Essentials.pdf
